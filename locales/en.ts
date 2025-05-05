@@ -57,7 +57,6 @@ export const en = {
       data_breach: "Data Breach",
       other: "Other",
     },
-    description: "Description",
     descriptionPlaceholder: "Please describe what happened in detail...",
     descriptionHelp:
       "Include relevant details such as dates, websites, email addresses, or any other information that might help with the investigation.",
@@ -328,5 +327,15 @@ export const en = {
     termsOfService: "Terms of Service",
     contactUs: "Contact Us",
     allRightsReserved: "All rights reserved.",
+  },
+
+  // 404 Page
+  notFound: {
+    title: "Page Not Found",
+    description: "The page you're looking for doesn't exist or has been moved.",
+    homeButton: "Go back home",
+    reportButton: "Report a crime",
+    helpText: "Need help?",
+    contactUs: "Contact us",
   },
 }
